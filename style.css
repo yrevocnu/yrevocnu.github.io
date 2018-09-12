@@ -1,0 +1,26 @@
+body {
+     font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+
+.center {
+        margin:auto;
+        display: block;
+}
+
+.main {
+      text-align: center;
+      padding-bottom: 3em;
+}
+
+.footer {
+    position: fixed;
+    padding:10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+}
+
+.motto {
+       font-style: italic;
+}
