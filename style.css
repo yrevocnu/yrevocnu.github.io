@@ -12,6 +12,10 @@ body {
       padding-bottom: 3em;
 }
 
+.main ul{
+      list-style-position: inside;
+}
+
 .footer {
     position: fixed;
     padding:10px;
