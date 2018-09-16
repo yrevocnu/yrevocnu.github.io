@@ -29,3 +29,7 @@ body {
 .motto {
        font-style: italic;
 }
+
+.logo {
+    padding-right: 15px;
+}
