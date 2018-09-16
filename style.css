@@ -16,6 +16,18 @@ body {
       list-style-position: inside;
 }
 
+.paradise {
+      color: #808000;
+}
+
+.woods {
+      color: green;
+}
+
+.reef {
+      color: purple;
+}
+
 .footer {
     z-index: -1;
     position: fixed;
