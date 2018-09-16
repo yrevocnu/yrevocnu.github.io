@@ -16,6 +16,13 @@ body {
       list-style-position: inside;
 }
 
+div .box {
+    border-style: outset;
+    border-width: medium;
+    margin: auto;
+    width: 60%;
+}
+
 .paradise {
       color: #808000;
 }
