@@ -8,8 +8,20 @@ body {
 }
 
 .main {
-        text-align: center;
-        padding-bottom: 3em;
+      margin:auto;
+      text-align: center;
+      padding-bottom: 1.5em;
+      padding-top:1.5em;
+}
+
+.odd {
+     background-color:black;
+     color:white;
+}
+
+.main .contents {
+      margin:auto;
+      width: 60%;
 }
 
 .main ul{
