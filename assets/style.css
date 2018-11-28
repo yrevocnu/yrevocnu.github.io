@@ -27,6 +27,10 @@ body {
      color:white;
 }
 
+.odd a {
+     color: DeepSkyBlue;
+}
+
 .main .contents {
       margin:auto;
       width: 60%;
