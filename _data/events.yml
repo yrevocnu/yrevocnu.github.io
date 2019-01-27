@@ -1,0 +1,17 @@
+2:
+  name: Future Ball
+  ordinal: 2nd
+  dates: April 26-29
+  holiday: ???
+
+1:
+  name: Future Ball
+  ordinal: 1st
+  dates: November 4-7
+  holiday: Guy Fawkes Day
+
+0:
+  name: Glass Bead Party
+  ordinal: 0th
+  dates: July 14
+  holiday: Bastille Day

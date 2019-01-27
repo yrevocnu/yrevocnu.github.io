@@ -20,10 +20,11 @@ layout: default
         <div class="contents">
         <h2>Events</h2>
 
+        {% assign future = site.data.events[2] %}
         <div class="box">
-          <p>The 3rd triannual</p>
-          <h3>Future Ball</h3>
-          <p>is TBD</p>
+          <p>The {{future.ordinal}} triannual</p>
+          <h3>{{future.name}}</h3>
+          <p>is {{future.dates}}</p>
 <!--
           <p>celebrates <a href="https://www.britannica.com/topic/Guy-Fawkes-Day">Guy Fawkes Day</a></p>
           <p>Nov 2-5, 2018</p>
