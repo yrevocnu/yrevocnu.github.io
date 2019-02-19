@@ -2,16 +2,19 @@
   name: Future Ball
   ordinal: 2nd
   dates: April 26-29
-  holiday: ???
+  location: The Mythic
+  holiday: the Reorganization of Libya
 
 1:
   name: Future Ball
   ordinal: 1st
   dates: November 4-7
+  location: Cult HQ
   holiday: Guy Fawkes Day
 
 0:
   name: Glass Bead Party
   ordinal: 0th
   dates: July 14
+  location: Cult HQ
   holiday: Bastille Day

@@ -2,6 +2,30 @@
 layout: default
 ---
 {{content}}
+      <div class="main">
+        <div class="contents">
+        <h2>Events</h2>
+
+        {% assign future = site.data.events[2] %}
+        <div class="box">
+          <p>The {{future.ordinal}} triannual {{future.name}}</p>
+          <h3>@ {{future.location}}</h3>
+          <p>is {{future.dates}}</p>
+          <p>Celebrating {{future.holiday}}</p>
+<!--
+          <p>celebrates <a href="https://www.britannica.com/topic/Guy-Fawkes-Day">Guy Fawkes Day</a></p>
+          <p>Nov 2-5, 2018</p>
+          <p>at Cult HQ, in Pittsburgh, PA.</p> -->
+        </div>
+        <p>We accomplish our vision through events.</p>
+        <p>They are opportunities to share skills with each other through creative play.</p>
+        <p>They are opportunities to make and create something.</p>
+        <p>They are opportunities to shape the future of our community.</p>
+        <p>They are loosely structured, imagined as an <a href="https://www.aleph.se/Trans/Cultural/Philosophy/infinitegames.html">infinite game</a>, with flexible rules like <a href="https://cf.geekdo-images.com/imagepagezoom/img/f48jokMCs1hrr0-jQAcRCJcfwpM=/fit-in/1200x900/filters:no_upscale()/pic1815571.jpg">Calvinball</a> or <a href="https://legacy.earlham.edu/~peters/nomic.htm">Nomic</a>.</p>
+        <p>Currently the events are invitation-only. We select for great people who we think have something to learn from each other.</p>.
+        </div>
+      </div>
+
       <div class="main odd ">
         <div class="contents">
           <h2>Vision</h2>
@@ -14,28 +38,6 @@ layout: default
           <p>We are cultivating an evolved sense of humor.</p>
           <p>We are creating a museum bazaar in the virtual and augmented realities.</p>
           <p>We are making impactful moves in real estate development.</p>
-        </div>
-      </div>
-      <div class="main">
-        <div class="contents">
-        <h2>Events</h2>
-
-        {% assign future = site.data.events[2] %}
-        <div class="box">
-          <p>The {{future.ordinal}} triannual</p>
-          <h3>{{future.name}}</h3>
-          <p>is {{future.dates}}</p>
-<!--
-          <p>celebrates <a href="https://www.britannica.com/topic/Guy-Fawkes-Day">Guy Fawkes Day</a></p>
-          <p>Nov 2-5, 2018</p>
-          <p>at Cult HQ, in Pittsburgh, PA.</p> -->
-        </div>
-        <p>We accomplish our vision through events.</p>
-        <p>They are opportunities to share skills with each other through creative play.</p>
-        <p>They are opportunities to make and create something.</p>
-        <p>They are opportunities to shape the future of our community.</p>
-        <p>They are loosely structured, imagined as an <a href="https://www.aleph.se/Trans/Cultural/Philosophy/infinitegames.html">infinite game</a>, with flexible rules like <a href="https://cf.geekdo-images.com/imagepagezoom/img/f48jokMCs1hrr0-jQAcRCJcfwpM=/fit-in/1200x900/filters:no_upscale()/pic1815571.jpg">Calvinball</a> or <a href="https://legacy.earlham.edu/~peters/nomic.htm">Nomic</a>.</p>
-        <p>Currently the events are invitation-only. We select for great people who we think have something to learn from each other.</p>.
         </div>
       </div>
    </div>
