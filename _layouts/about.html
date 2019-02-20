@@ -11,13 +11,23 @@ layout: default
 
       <div class="main">
         <div class="contents">
+          <h2>Aphorisms</h2>
+          <p>Uncovery's philosophy is developed and communicated through aphorisms. These are some of them.</p>
+          {% for aphorism in site.data.aphorisms %}
+          <p class="mottoe {{aphorism.house}}">{{aphorism.motto}}</p>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="main odd">
+        <div class="contents">
         <h2>Affiliations</h2>
         <p>What other organizations and associations are affiliated with <em>Yrevocnu</em>?</p>
         <p><a href="https://bead.glass">Glass Bead Labs</a>, <a href="https://ecult.org">eCult.org</a></p>
         </div>
         </div>
 
-      <div class="main odd">
+      <div class="main">
         <div class="contents">
         <h2>People</h2>
         <p>Uncovery is made of people. Some of those people are:</p>
