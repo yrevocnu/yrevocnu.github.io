@@ -11,6 +11,17 @@
   dates: November 4-7
   location: Cult HQ
   holiday: Guy Fawkes Day
+  organizer:
+    name: Dr. Sebastian Benthall
+    mission: Our sociotechnical autopoiesis
+    inspiration: Francisco Varela
+  happenings:
+    - Jake composes the Pattern
+    - The Grey House forms
+    - practices:
+        high: Hakken
+        middle: Shintaido
+        low: Brazilian Jiu Jitsu
 
 0:
   name: Glass Bead Party
@@ -18,3 +29,14 @@
   dates: July 14
   location: Cult HQ
   holiday: Bastille Day
+  organizer:
+    name: Dr. Dav Clark
+    mission: The emancipation of all beings.
+    inspiration: Seymour Papert
+  happenings:
+    - The Three Houses form
+    - The first Dance, Dance, Initiation
+    - practices:
+        high: Taiji
+        middle: Contact improvisation
+        low: Brazilian Jiu Jitsu
