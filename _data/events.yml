@@ -4,6 +4,13 @@
   dates: April 26-29
   location: The Mythic
   holiday: the Reorganization of Libya
+  organizer:
+    name: Amanda Perez
+    officers:
+      officers:
+      - Ben Heller, Saboteur, FP
+      - Michael Pope, Alpha, TW
+      - Yiyi Ren, Commander, RS
 
 1:
   name: Future Ball
@@ -15,6 +22,10 @@
     name: Dr. Sebastian Benthall
     mission: Our sociotechnical autopoiesis
     inspiration: Francisco Varela
+    officers:
+      - Arash Danae, Symbol, FP
+      - Amanda Perez, TW
+      - Nate Bender, Commander, RS
   happenings:
     - Jake composes the Pattern
     - The Grey House forms
@@ -34,6 +45,10 @@
     name: Dr. Dav Clark
     mission: The emancipation of all beings.
     inspiration: Seymour Papert
+    officers:
+      - Madoka Wada, Symbol, FP
+      - Dr. Dav Clark, Facilitator, TW
+      - Dr. Sebastian Benthall, Commander, RS
   happenings:
     - The Three Houses form
     - The first Dance, Dance, Initiation
