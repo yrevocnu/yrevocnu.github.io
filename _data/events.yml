@@ -23,7 +23,17 @@
       - Ben Heller, Saboteur, FP
       - Michael Pope, Alpha, TW
       - Yiyi Ren, Commander, RS
-
+  karma_burned: 2
+  happenings:
+    - J-O hosts The Eternal Return
+    - Amanda introduces the Trickster
+    - Attended Beltane Festival
+    - The Bank of Tiamat issues SamsaraCoin
+    - practices:
+        - high: guided meditiation, yoga
+        - middle: Shintaido, neck stretches
+        - low: synths
+    
 1:
   name: Future Ball
   ordinal: 1st
@@ -32,7 +42,7 @@
   holiday: Guy Fawkes Day
   organizer:
     name: Dr. Sebastian Benthall
-    mission: Our sociotechnical autopoiesis
+    motive: Our sociotechnical autopoiesis
     inspiration: Francisco Varela
     officers:
       - Arash Danae, Symbol, FP
@@ -55,7 +65,7 @@
   holiday: Bastille Day
   organizer:
     name: Dr. Dav Clark
-    mission: The emancipation of all beings.
+    motive: The emancipation of all beings.
     inspiration: Seymour Papert
     officers:
       - Madoka Wada, Symbol, FP
