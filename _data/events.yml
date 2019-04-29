@@ -1,3 +1,16 @@
+3:
+  name: Future Ball
+  ordinal: 3rd
+  dates: TBD
+  location: TBD
+  holiday: TBD
+  organizer:
+    name: Ben Heller
+    officers:
+      - Dan Mason, FP
+      - Effie Kong, TS
+      - Suby Raman, RS
+
 2:
   name: Future Ball
   ordinal: 2nd
@@ -7,7 +20,6 @@
   organizer:
     name: Amanda Perez
     officers:
-      officers:
       - Ben Heller, Saboteur, FP
       - Michael Pope, Alpha, TW
       - Yiyi Ren, Commander, RS
