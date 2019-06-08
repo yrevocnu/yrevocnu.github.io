@@ -1,10 +1,22 @@
 ---
 layout: default
 ---
-      <div class="main odd">
-        <div class="contents">
-          <blockquote>I am with very strange people. There is a lot of chaotic energy here. Out of touch. A scaffold, intricate, in the sky. I dislike these people. They feel like people who look into each other’s eyes seeking relief for their anxiety. They feel like a spinning vortex dragging each other in. They exist so much in abstraction that they feel like a figment of my imagination. They seem to be contented with the stories they tell themselves. They speak not to build the conversation, but to open up a new door of absurdity that is less absurd than random, that in its randomness makes it uncommentable and in its obscurity makes it uncommentable, they trump forth their intelligence. They make jokes about genocide and make references to different cultures as if their cynicism and autocracy proves some power, that they distance themselves from wrong doers by making a joke about the wrong doers – and that is as far as they are willing to go.</blockquote>
-          Anonymous, Event 2: alt-Vitae
-        </div>
-      </div>
+
+<div class="main">
+  <div class="contents">
+    <h1>Testimonials</h1>
+    <p>Yrevocnu is an art project, a political movement, a scientific experiment, and, in the broadest possible sense, a romance, all in one. It's not for everybody. In this space, we display testimonials solicited from attendees in response to their first Event.</p>
+  </div>
 </div>
+
+{% for post in site.categories.first[1] %}
+
+<div class="main {% cycle 'odd', '' %}">
+  <div class="contents">
+    <h2>{{ post.title }}</h2>
+    {{post.content | markdownify}}
+  </div>
+</div>
+{% endfor %}
+
+      
