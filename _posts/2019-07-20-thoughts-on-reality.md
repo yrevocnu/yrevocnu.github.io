@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Relational Models of Reality & the Self
+title:  Relational Models of Reality and the Self
 date:   2019-07-20 13:02:13 -0400
 categories: media
 tags: event-2
