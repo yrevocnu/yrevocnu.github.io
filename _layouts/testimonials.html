@@ -9,9 +9,9 @@ layout: default
   </div>
 </div>
 
-{% for post in site.categories.first[1] %}
+{% for post in site.categories['testimonial'] %}
 
-<div class="main {% cycle 'odd', '' %}">
+<div class="main long {% cycle 'odd', '' %}">
   <div class="contents">
     <h2>{{ post.title }}</h2>
     {{post.content | markdownify}}
