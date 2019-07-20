@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="main">
+  <div class="contents">
+    <h1>Media</h1>
+    <p>Look no further to find media produced by Yrevocnu's members.</p>
+  </div>
+</div>
+
+{% for post in site.categories['media'] %}
+
+<div class="main long {% cycle 'odd', '' %}">
+  <div class="contents">
+    <h2>{{ post.title }}</h2>
+    {{post.content | markdownify}}
+  </div>
+</div>
+{% endfor %}
+
+      
