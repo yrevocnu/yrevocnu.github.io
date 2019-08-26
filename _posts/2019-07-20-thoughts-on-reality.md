@@ -6,7 +6,7 @@ categories: media
 tags: event-2
 ---
 
-<em>This is the first of two essays contributed to the Library by Transformation Coach <a href="http://analternateparadigm.com/">Trevor Kuchar</a> after his attendence at Event 2.</em>
+<em>This is the first of two essays contributed to the Library by Transformational Coach <a href="http://analternateparadigm.com/">Trevor Kuchar</a> after his attendence at Event 2.</em>
 
 One of my favorite models of reality comes from the Veda’s; they didn’t really have a cut and dry example of how one could just acknowledge Reality and reach enlightenment like Jesus Christ gave us, instead they had to pay attention to themselves through mindfulness and notice how choices and behavior affected themselves – in other words, they did everything the hard way, from scratch. I like it because it describes the way I learn very well and has been the most effective for my own personal growth and understanding. This model comes from the Upanishad’s, Yogi sutras, and the Atma Bodha.
 
