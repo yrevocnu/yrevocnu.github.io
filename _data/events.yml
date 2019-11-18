@@ -1,3 +1,12 @@
+4:
+  name: Future Ball
+  ordinal: 4th
+  dates: TBD
+  location: TBD
+  holiday: TBD
+  organizer:
+    name: Suby Raman
+
 3:
   name: Future Ball
   ordinal: 3rd
@@ -7,9 +16,21 @@
   organizer:
     name: Ben Heller
     officers:
-      - Dan Mason, FP
-      - Effie Kong, TW
+      - Trevor Kochar FP
+      - Daria Asmolova, TW
       - Suby Raman, RS
+  happenings:
+    - We outlined the book Dada Science
+    - Suby chose "Forbidden Snacks" for the Pattern, with popular support
+    - Nate led PGBG
+    - Pope recorded "Fuck Yeah"
+    - Lasman played the Yrevocnu Organ
+    - Bounties offically introduced
+    - practices:
+        - high: guided meditiation
+        - middle: Shintaido, Krav Maga
+        - low: ------
+  
 
 2:
   name: alt-Vitae
