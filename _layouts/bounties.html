@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="main odd">
+  <div class="contents">
+    <h1>Soul Bounties</h1>
+    <p>Yrevocnu is platform for accomplishing our goals.
+      We operate an algorithm for recruiting people into our
+      network that expand our creative and experiential capacity.</p>
+  </div>
+</div>
+
+<div class="main long">
+  <div class="contents">
+    <h2>Open Bounties</h2>
+    <p>These are the people that we are looking for,
+      with the SamsaraCoin reward we are offering to members
+      that bring in their souls:</p>
+    {% for bounty in site.data.bounties.open %}
+    <h3></h3>
+    <p><strong>{{bounty.bounty}} {{bounty.short}}.</strong> {{bounty.long}}</p>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="main long odd">
+  <div class="contents">
+    <h2>Closed Bounties</h2>
+    These are the people that we have found:
+    {% for bounty in site.data.bounties.closed %}
+    <p><strong>{{bounty.short}}</strong> became a member at {{bounty.closed}}, recruited for {{bounty.bounty}}</p>
+    {% endfor %}
+  </div>
+</div>
+
+      

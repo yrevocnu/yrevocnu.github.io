@@ -1,0 +1,60 @@
+open:
+  - short: A special education teacher
+    bounty: ₷1
+    open: Event 3
+      
+  - short: Gardner Gould
+    bounty: ₷1
+    open: Event 3
+      
+  - short: A non gender-specific sugar daddy
+    bounty: ₷4
+    long: A wealthy person willing to finance Yrevocnu in its current form.
+    open: Event 3
+      
+  - short: Somebody who has the requisite skills to build the Yrevocnu sexbot
+    bounty: ₷1
+    open: Event 3
+      
+  - short: A professional surfer
+    bounty: ₷1
+    long: Somebody who makes over $1000 a year from surfing
+    open: Event 3
+      
+  - short: Somebody who will teach how to cook curry from scratch
+    bounty: ₷1
+    open: Event 3
+      
+  - short: A textile maker
+    bounty: ₷1
+    long: Especially, a maker of rugs. Especially, one whose designs are data driven.
+    open: Event 3
+
+  - short: A person who has experienced both obstacles to emancipation and privilege
+    bounty: ₷1
+    long: A person who has had experiences as a member of different classes or cultures where at least one of those experiences involved overcoming obstacles to emancipation and one of those experiences came with privilege, whether it was earned or unearned
+    open: Event 2
+
+  - short: Someone who is intelligent about money
+    bounty: ₷1
+    long: Someone who is intelligent about money--how to manage it, and how to invest it. This person should also have a good grasp, if not educational background, on economics - both national and international. Ideally, this person would be able to give a talk at a prison, where the information they share would be useful and implementable advice for the inmates when they leave.
+    open: Event 2
+
+  - short: Someone who wants to achieve something with Yrevocnu
+    bounty: ₷1
+    long: A person who actively wants to achieve something with Yrevocnu members at the Future Ball, such as learning and/or teaching something at an introductory level, after having had their recruiter explain their Yrevocnu experiences. If multiple individuals fulfill this requirement, preference will go to collaborations with specific existing members (which may include the recruiter). In other words, bringing a buddy you want to do something with is an ideal example.
+    open: Event 2
+
+  - short: An enthusiastic teacher of youth
+    bounty: ₷1
+    long: An enthusiastic teacher of youth. Currently practicing with 3-5 years of professional experience working with young people aged 12-18. Must be Enneagram Type 7.
+    open: Event 2
+
+  - short: A new attendee who volunteers to organize the next event
+    bounty: ₷4
+
+closed:
+  - short: Leo DiCaprio or Sergey Lavrov
+    bounty: ₷1
+    open: Event 2
+    closed: Event 3
