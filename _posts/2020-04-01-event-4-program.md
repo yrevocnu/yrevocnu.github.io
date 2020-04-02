@@ -12,7 +12,7 @@ The Event will take place "in" a collection of virtual rooms connecting real, ph
 
 All times are in ET time zone.
 
-If you are unable to attend for the whole event, we invite the interested public to our <strong>Opening Ceremonies</strong> and <strong></strong>
+If you are unable to attend for the whole event, we invite the interested public to our <strong>Opening Ceremonies (Friday, 7:00pm)</strong> and <strong>Exhibitions (Sunday, 5:30pm)</strong>
 
 ### Friday, April 10, 2020
 
@@ -192,7 +192,7 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>5:30pm</td>
-  <td>Showcase/Recitals :
+  <td>Exhibtions/Showcase/Recitals :
   <p>Share your creations with the whole group!</p>
   </td>
 </tr>
