@@ -58,7 +58,7 @@ If you have any administrative questions during the event, please consult the ev
 </tr>
 <tr>
   <td>8:00pm</td>
-  <td>PSA: WNOW Livestreamed Community Visual Radio (#living-room)</td>
+  <td>PSA: <span class="reef">WNOW Livestreamed Community Visual Radio</span> (#living-room)</td>
 </tr>
 <tr>
   <td>8:15pm</td>
@@ -66,7 +66,7 @@ If you have any administrative questions during the event, please consult the ev
 </tr>
 <tr>
   <td>8:30pm</td>
-  <td>Tutorial: Critical Response Process (#living-room)</td>
+  <td>Tutorial: <span class="paradise">Critical Response Process</span> (#living-room)</td>
 </tr>
 <tr>
   <td>9:00pm</td>
@@ -85,11 +85,17 @@ If you have any administrative questions during the event, please consult the ev
 <table border="1">
 <tr>
   <th>8:00am</th>
-  <th>Morning Exercise: Workout #gym</th>
+  <th>Morning Exercise: <span class="reef">Workout</span> #gym</th>
 </tr>
 <tr>
   <td>9:00am</td>
-  <td>Breakfast #kitchen #living-room</td>
+  <td>House Breakfasts
+  <p>
+     <span class="paradise">#fruits-paradise</span>
+     <span class="woods">#the-woods</span>
+     <span class="reef">#reef-structure</span>
+  </p>
+  </td>
 </tr>
 <tr>
   <td>10:00am</td>
@@ -109,7 +115,7 @@ If you have any administrative questions during the event, please consult the ev
 </tr>
 <tr>
   <td>2:30pm</td>
-  <td>Afternoon Exercise: Guided Meditation (#living-room)</td>
+  <td>Afternoon Exercise: <span class="paradise">Guided Meditation</span> (#living-room)</td>
 </tr>
 <tr>
   <td>3-00pm</td>
@@ -121,7 +127,7 @@ If you have any administrative questions during the event, please consult the ev
 </tr>
 <tr>
   <td>5:30pm</td>
-  <td>Evening Exercise: Poorly Taught Shintaido (#outside)</td>
+  <td>Evening Exercise: <span class="woods">Poorly Taught Shintaido</span> (#outside)</td>
 </tr>
 <tr>
   <td>6:30pm</td>
