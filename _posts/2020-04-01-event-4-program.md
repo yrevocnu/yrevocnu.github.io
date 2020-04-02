@@ -9,15 +9,10 @@ tags: event-4
 Due to the unprecedented COVID-19 situation, Yrevocnu is organizing the Future Ball (Event 4) as a virtual house party available to those who are sheltering-in-place.
 
 The Event will take place "in" a collection of virtual rooms connecting real, physical rooms: the Grey House.
-In the program, these rooms are designated with hashtags.
-Registered attendees will be given a map that hyperlinks the hashtags to the URLs where the activity takes place.
-We ask that as much as possible, people access the Grey House room from the corresponding room wherever they are physically sheltering-in-place.
-
-<em>Example: Natalie decides to prepare a meal. She does so in her physical kitchen. While there, she directs her laptop browser to the URL corresponding the the hashtag #kitchen. She finds a video chat room with other attendees, also cooking or chatting from their kitchens.</em>
 
 All times are in ET time zone.
 
-If you have any administrative questions during the event, please consult the event staff in the #back-office.
+If you are unable to attend for the whole event, we invite the interested public to our <strong>Opening Ceremonies</strong> and <strong></strong>
 
 ### Friday, April 10, 2020
 
@@ -206,3 +201,17 @@ If you have any administrative questions during the event, please consult the ev
   <td>Farewells</td>
 </tr>
 </table>
+
+<h3>Location</h3>
+
+In the program, rooms are designated with hashtags.
+
+Registered attendees will be given a map that hyperlinks the hashtags to the URLs where the activity takes place.
+
+We ask that as much as possible, people access the Grey House room from the corresponding room wherever they are physically sheltering-in-place.
+
+<em>Example: Natalie decides to prepare a meal. She does so in her physical kitchen. While there, she directs her laptop browser to the URL corresponding the the hashtag #kitchen. She finds a video chat room with other attendees, also cooking or chatting from their kitchens.</em>
+
+<h3>Questions</h3>
+
+If you have any administrative questions during the event, please consult the event staff in the #back-office.
