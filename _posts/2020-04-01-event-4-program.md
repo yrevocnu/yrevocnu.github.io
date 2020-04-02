@@ -167,7 +167,7 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>11:00am</td>
-  <td>Project: Now City
+  <td>Project: <span class="woods">Now City</span>
   <p>An opportunity to reflect on our process for decentralized events and its implications for designing and living in a smart, sustainable city that survives the apocalypse.</p>
   </td>
 </tr>
