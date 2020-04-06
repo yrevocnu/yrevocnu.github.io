@@ -6,11 +6,11 @@ categories: program
 tags: event-4
 ---
 
-Due to the unprecedented COVID-19 situation, Yrevocnu is organizing the Future Ball (Event 4) as a virtual house party available to those who are sheltering-in-place.
+Due to the unprecedented COVID-19 situation, Yrevocnu is organizing the Future Ball (Event 4) as a virtual house party available to those who are quarantined.
 
-The Event will take place "in" a collection of virtual rooms connecting real, physical rooms: the Grey House.
+The Event will take place "in" a collection of virtual roomsof virtual rooms, known as the Gray House, that connect real, physical rooms in participants’ homes.
 
-All times are in ET time zone.
+All times are in EST.
 
 If you are unable to attend for the whole event, we invite the interested public to our <strong>Opening Ceremonies (Friday, 7:00pm)</strong> and <strong>Exhibitions (Sunday, 5:30pm)</strong>
 
