@@ -98,7 +98,7 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>11:00am</td>
-  <td>Project B: Collaborative interactive fiction with Twine and Glitch</td>
+  <td>Project B: TBD</td>
 </tr>
 <tr>
   <td>12:00pm</td>
