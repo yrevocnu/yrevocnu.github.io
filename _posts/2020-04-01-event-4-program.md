@@ -98,7 +98,7 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>11:00am</td>
-  <td>Project B: TBD</td>
+  <td>Project B: <span class="reef">Recursive Cybersemiotic Architecture Buildout</span></td>
 </tr>
 <tr>
   <td>12:00pm</td>
