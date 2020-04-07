@@ -80,7 +80,7 @@ If you are unable to attend for the whole event, we invite the interested public
 <table border="1">
 <tr>
   <th>8:00am</th>
-  <th>Morning Exercise: <span class="reef">Workout</span> #gym</th>
+  <th>Morning Exercise: <span class="reef">Home Workout</span> Guides: <a href="https://youtu.be/sY9ZoRTDomU">1</a> <a href="https://youtu.be/gExluqhZ-9o">2</a> #gym</th>
 </tr>
 <tr>
   <td>9:00am</td>
