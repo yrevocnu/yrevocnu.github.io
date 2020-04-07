@@ -1,4 +1,5 @@
 - name: Alain Badiou
+  link: https://ceasefiremagazine.co.uk/alain-badiou-event/
 
 - name: angel Kyodo williams
   link: https://angelkyodowilliams.com/
@@ -6,6 +7,10 @@
 - name: Brazilian Jiu Jitsu
   house: reef
 
+- name: Søren Brier
+  house: reef
+  link: https://www.cybersemiotics.com/content/what-cybersemiotics
+  
 - name: Burning Man
 
 - name: Contact Improvisation
@@ -39,7 +44,12 @@
 - name: Seymour Papert
   link: http://worrydream.com/refs/Papert%20-%20Mindstorms%201st%20ed.pdf
 
+- name: Gunther Teubner
+  house: paradise
+  link: https://cadmus.eui.eu/handle/1814/23894
+
 - name: Shamanism
+  house: woods
 
 - name: Simone de Beauvoir
   link: https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/index.htm
