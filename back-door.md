@@ -8,7 +8,7 @@ tags: event-4
 
 <div class="back-door">
 <div class="imagebox">
-     <img width="1500" src="{{"images/snake-head.jpeg" | relative_url}}" />
+     <img width="1500" src="{{"images/yuxaframe.png" | relative_url}}" />
      <div class="innertext">
           <h3>YREVOCNU</h3>
           <b>Post of Informed Video & Audio Consent</b>
