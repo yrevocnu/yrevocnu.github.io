@@ -7,6 +7,10 @@ tags: event-4
 ---
 
 <div class="main odd">
+ 
+<br>
+Welcome into Grey House, see who else is loitering in the <a href="https://meet.jit.si/yrevocnu-grey-hallway" target="_blank">hallways</a>
+<br>
 <center>
  <iframe frameborder="0" width="860" height="860" src="https://docs.google.com/drawings/d/1dor6PDYs_gll0TWn6t4xZon414ZaPfJu9xGGbfi_QGo/preview?ac=true"></iframe>
  </center>
