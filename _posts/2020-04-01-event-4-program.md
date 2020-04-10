@@ -213,3 +213,9 @@ We ask that as much as possible, people access the Grey House room from the corr
 <h3>Questions</h3>
 
 If you have any administrative questions during the event, please consult the event staff in the #library.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=yrevocnu.com_l8m5ub70hqje9is4u7k3m0m07s%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=yrevocnu.com_5kliojnuf50c8qaefglrm9fd5s%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=yrevocnu.com_b2dgp26t8f33qhaug1hhhkgf80%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
