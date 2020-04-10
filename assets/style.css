@@ -115,7 +115,7 @@ th, td {
      margin: 0 auto;
      left: 0;
      right: 0;
-     top: 28%; /* Adjust this value to move the positioned div up and down */
+     top: 28.5%; /* Adjust this value to move the positioned div up and down */
      text-align: center;
      width: 55%; /* Set the width of the positioned div */
 }
