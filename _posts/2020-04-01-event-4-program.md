@@ -37,17 +37,17 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>6:30pm</td>
-  <td>Reception (#living-room)</td>
+  <td>Reception (#hallway)</td>
 </tr>
 <tr>
   <td>7:00pm</td>
   <td>Ceremony:
-  Opening Remarks (#living-room)
+  Opening Remarks (#game-room)
   <p>Plenary talk by the previous Organizer</p></td>
 </tr>
 <tr>
   <td>7:30pm</td>
-  <td>Kickoff Meeting (#living-room)
+  <td>Kickoff Meeting (#game-room)
   <p>A welcome and orientation by the current Organizer</p>
   </td>
 </tr>
@@ -57,11 +57,11 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>8:15pm</td>
-  <td>PSA: About Yrevocnu Membership (#living-room)</td>
+  <td>PSA: About Yrevocnu Membership (#game-room)</td>
 </tr>
 <tr>
   <td>8:30pm</td>
-  <td>Tutorial: <span class="paradise">Critical Response Process</span> (#living-room)</td>
+  <td>Tutorial: <span class="paradise">Critical Response Process</span> (#dojo)</td>
 </tr>
 <tr>
   <td>9:00pm</td>
@@ -69,8 +69,8 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>9:30pm</td>
-  <td><strong>Dance Party</strong>  #nightclub
-  <p>Optional Ceremony: Dance Dance Initiation for those choosing to become Members of Yrevocnu. Sign up at the #registration-booth.</p>
+  <td><strong>Dance Party</strong>  #basement
+  <p>Optional Ceremony: Dance Dance Initiation for those choosing to become Members of Yrevocnu. Sign up at the #library.</p>
   </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ If you are unable to attend for the whole event, we invite the interested public
 <table border="1">
 <tr>
   <th>8:00am</th>
-  <th>Morning Exercise: <span class="reef">Home Workout</span> Guides: <a href="https://youtu.be/sY9ZoRTDomU">1</a> <a href="https://youtu.be/gExluqhZ-9o">2</a> #gym</th>
+  <th>Morning Exercise: <span class="reef">Home Workout</span> Guides: <a href="https://youtu.be/sY9ZoRTDomU">1</a> <a href="https://youtu.be/gExluqhZ-9o">2</a> #dojo</th>
 </tr>
 <tr>
   <td>9:00am</td>
@@ -94,15 +94,15 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>10:00am</td>
-  <td>Project A: <em>Dada Science</em> the AV product #living-room</td>
+  <td>Project A: <em>Dada Science</em> the AV product #wnow</td>
 </tr>
 <tr>
   <td>11:00am</td>
-  <td>Project B: <span class="reef">Recursive Cybersemiotic Architecture Buildout</span></td>
+  <td>Project B: <span class="reef">Recursive Cybersemiotic Architecture Buildout</span> #library</td>
 </tr>
 <tr>
   <td>12:00pm</td>
-  <td>Lunch</td>
+  <td>Lunch #kitchen</td>
 </tr>
 <tr>
   <td>1:00pm</td>
@@ -122,19 +122,19 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>5:30pm</td>
-  <td>Evening Exercise: <span class="woods">Poorly Taught Shintaido</span> (#outside)</td>
+  <td>Evening Exercise: <span class="woods">Poorly Taught Shintaido</span> (#dojo)</td>
 </tr>
 <tr>
   <td>6:30pm</td>
-  <td>Dinner (#kitchen #living-room)</td>
+  <td>Dinner (#kitchen)</td>
 </tr>
 <tr>
   <td>7:30pm</td>
-  <td>All-attendees checkin meeting (#living-room)</td>
+  <td>All-attendees checkin meeting (#game-room)</td>
 </tr>
 <tr>
   <td>8:00pm</td>
-  <td>Game: Psychedelic Glass Bead Game (#living-room)
+  <td>Game: Psychedelic Glass Bead Game (#game-room)
   <p>A tarot-based storytelling game.</p></td>
 </tr>
 <tr>
@@ -153,28 +153,27 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>8:00am</td>
-  <td>Morning Exercise: TBD</td>
+  <td>Morning Exercise: TBD #dojo</td>
 </tr>
 <tr>
   <td>9:00am</td>
-  <td>Breakfast (#kitchen #living-room)</td>
+  <td>Breakfast (#kitchen)</td>
 </tr>
 <tr>
   <td>10:00am</td>
-  <td>Announcements (#living-room)
+  <td>Announcements (#game-room)
   <p>Outcome of the Leadership Summit revealed.</p>
 </td>
 </tr>
 <tr>
   <td>11:00am</td>
   <td>Project: <span class="woods">Now City</span>
-  <p>An opportunity to reflect on our process for decentralized events and its implications for designing and living in a smart, sustainable city that survives the apocalypse.</p>
+  <p>An opportunity to reflect on our process for decentralized events and its implications for designing and living in a smart, sustainable city that survives the apocalypse. #game-room</p>
   </td>
 </tr>
 <tr>
   <td>12:00pm</td>
-  <td>Lunch
-  </td>
+  <td>Lunch #kitchen</td>
 </tr>
 <tr>
   <td>1:00pm</td>
@@ -187,13 +186,12 @@ If you are unable to attend for the whole event, we invite the interested public
 <tr>
   <td>3:30pm</td>
   <td>Creative Time.
-  <p>Option: Game: Post-Apocalyptic RPG Playtesting</p>
-  </td>
+  <p>Option: Game: Post-Apocalyptic RPG Playtesting</p> #game-room</td>
 </tr>
 <tr>
   <td>5:30pm</td>
   <td>Exhibtions/Showcase/Recitals :
-  <p>Share your creations with the whole group!</p>
+  <p>Share your creations with the whole group! #wnow</p>
   </td>
 </tr>
 <tr>
@@ -214,4 +212,4 @@ We ask that as much as possible, people access the Grey House room from the corr
 
 <h3>Questions</h3>
 
-If you have any administrative questions during the event, please consult the event staff in the #back-office.
+If you have any administrative questions during the event, please consult the event staff in the #library.
