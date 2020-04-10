@@ -100,3 +100,29 @@ th, td {
     border: 1px solid black;
     padding: 10px;
 }
+
+/* For the back door */
+
+.back-door .imagebox {  
+     position: relative;
+     display: inline-block; /* Make the width of box same as
+     / * margin: 0px; */
+}
+
+.back-door .innertext {
+     position: absolute;
+     z-index: 999;
+     margin: 0 auto;
+     left: 0;
+     right: 0;
+     top: 30%; /* Adjust this value to move the positioned div up and down */
+     text-align: center;
+     width: 55%; /* Set the width of the positioned div */
+}
+
+.back-door .enter {
+   background-color: gray;
+   color: blue;
+   font-size: 2.2em;
+   margin: .1em;
+}
