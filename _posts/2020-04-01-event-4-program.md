@@ -98,7 +98,7 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>11:00am</td>
-  <td>Project B: <span class="reef">Recursive Cybersemiotic Architecture Buildout</span> #library</td>
+  <td>Creative Time. (Work on a contribution to Project A. Or do your own thing. (anywhere)</td>
 </tr>
 <tr>
   <td>12:00pm</td>
@@ -106,7 +106,7 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>1:00pm</td>
-  <td>Creative Time. (Work on a contribution to Project A or Project B. Or do your own thing. (anywhere)</td>
+  <td>Project B: <span class="reef">Recursive Cybersemiotic Architecture Buildout</span> #library</td>
 </tr>
 <tr>
   <td>2:30pm</td>
@@ -118,7 +118,7 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>4:30pm</td>
-  <td>Small Group Workshopping. Interested participants will be assigned to small groups of 3 for workshopping on their pieces using Critical Response Process.</td>
+  <td>Creative Time.</td>
 </tr>
 <tr>
   <td>5:30pm</td>
@@ -177,7 +177,7 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>1:00pm</td>
-  <td>Creative Time</td>
+  <td>Small Group Workshopping. Interested participants will be assigned to small groups of 3 for workshopping on their pieces using Critical Response Process.</td>
 </tr>
 <tr>
   <td>2:30pm</td>
