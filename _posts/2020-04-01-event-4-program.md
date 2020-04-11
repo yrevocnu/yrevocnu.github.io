@@ -110,7 +110,7 @@ If you are unable to attend for the whole event, we invite the interested public
 </tr>
 <tr>
   <td>2:30pm</td>
-  <td>Afternoon Exercise: <span class="paradise">Guided Meditation</span> (#living-room)</td>
+  <td>Afternoon Exercise: <span class="paradise">Guided Meditation</span> (#dojo)</td>
 </tr>
 <tr>
   <td>3-00pm</td>
