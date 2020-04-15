@@ -1,4 +1,25 @@
 open:
+  - short: Game builder
+    long: Somebody that will work directly with us on the project of building a video game.
+    bounty: ₷3
+    open: Event 4
+
+  - short: Somebody who cannot speak any English
+    bounty: ₷1
+    open: Event 4
+
+  - short: An Ambedkharite
+    bounty: ₷1
+    open: Event 4
+
+  - short: Noam Chomsky
+    bounty: ₷1
+    open: Event 4
+  
+  - short: Donald Trump
+    bounty: ₷1
+    open: Event 4
+  
   - short: A special education teacher
     bounty: ₷1
     open: Event 3
@@ -44,11 +65,6 @@ open:
     long: Someone who is intelligent about money--how to manage it, and how to invest it. This person should also have a good grasp, if not educational background, on economics - both national and international. Ideally, this person would be able to give a talk at a prison, where the information they share would be useful and implementable advice for the inmates when they leave.
     open: Event 2
 
-  - short: Someone who wants to achieve something with Yrevocnu
-    bounty: ₷1
-    long: A person who actively wants to achieve something with Yrevocnu members at the Future Ball, such as learning and/or teaching something at an introductory level, after having had their recruiter explain their Yrevocnu experiences. If multiple individuals fulfill this requirement, preference will go to collaborations with specific existing members (which may include the recruiter). In other words, bringing a buddy you want to do something with is an ideal example.
-    open: Event 2
-
   - short: An enthusiastic teacher of youth
     bounty: ₷1
     long: An enthusiastic teacher of youth. Currently practicing with 3-5 years of professional experience working with young people aged 12-18. Must be Enneagram Type 7.
@@ -56,8 +72,15 @@ open:
 
   - short: A new attendee who volunteers to organize the next event
     bounty: ₷4
+    open: Event 2
 
 closed:
+  - short: Someone who wants to achieve something with Yrevocnu
+    bounty: ₷1
+    long: A person who actively wants to achieve something with Yrevocnu members at the Future Ball, such as learning and/or teaching something at an introductory level, after having had their recruiter explain their Yrevocnu experiences. If multiple individuals fulfill this requirement, preference will go to collaborations with specific existing members (which may include the recruiter). In other words, bringing a buddy you want to do something with is an ideal example.
+    open: Event 2
+    closed: Event 4
+
   - short: Leo DiCaprio or Sergey Lavrov
     bounty: ₷1
     open: Event 2
