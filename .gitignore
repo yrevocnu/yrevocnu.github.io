@@ -16,12 +16,12 @@ Gemfile.lock
 .analysis
 .DS_Store
 *.swp
+*.tmp
 *~
 
 # Folders
 /vendor
 bbin/
-bin/
 coverage
 gh-pages/
 pkg/

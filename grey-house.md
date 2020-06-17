@@ -5,12 +5,10 @@ date:   2020-04-09 15:30:30 -0400
 categories: room
 tags: event-4
 ---
-
 <div class="main odd">
- 
-<br>
-Welcome into Grey House, you are in the hallway.
-<center>
- <iframe frameborder="0" width="860" height="860" src="https://docs.google.com/drawings/d/1dor6PDYs_gll0TWn6t4xZon414ZaPfJu9xGGbfi_QGo/preview?ac=true"></iframe>
- </center>
- </div>
+  <br>
+  Welcome into Grey House, you are in the hallway.
+  <center>
+    <iframe frameborder="0" width="860" height="860" src="https://docs.google.com/drawings/d/1dor6PDYs_gll0TWn6t4xZon414ZaPfJu9xGGbfi_QGo/preview?ac=true"></iframe>
+  </center>
+</div>

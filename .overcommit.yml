@@ -21,7 +21,7 @@ PreCommit:
     required: true
     quiet: true
     enabled: true
-    command: ['scss-lint', 'assets/style.scss']
+    required_executable: './bin/pre-commit'
 #  RuboCop:
 #    enabled: true
 #    on_warn: fail # Treat all warnings as failures

@@ -14,19 +14,19 @@ The Supreme Self is all things, one with Brahman and the universe, and therefore
 One way to view the layers of illusion that disguise Reality is to think of them as sheaths or covers, referred to as the 5 Kosha in the Atma Bodha. These sheaths cover our perception of the Self and entice us with the opportunity to identify with them rather than ignore them and realize the Self. Since we are empowered with the power of creation, our Ideas and choices make our reality. These Kosha are arranged in a relational and hierarchical way based on causation and how we tend to identify with them, but there is no reason why we can’t skip them entirely and just reach enlightenment.
 
 1. *Annamaya Kosha* – The Food Sheath. ... The BODY
-      This layer represents all physical things, the food that we eat, the air we breathe, chemical reactions, neurons, etc. Any physical form, reaction or effect in the body. Upon death, this sheath returns to its component parts to supply parts for other bodies to be formed.
+This layer represents all physical things, the food that we eat, the air we breathe, chemical reactions, neurons, etc. Any physical form, reaction or effect in the body. Upon death, this sheath returns to its component parts to supply parts for other bodies to be formed.
 
 2. *Pranamaya Kosha* – The Vital Energy Sheath. ... ENERGY
-    This layer represents the Prana or Energy that courses through the world empowering it with vitality and the ability to manifest and affect reality. It is often perceived as having lots of energy when having fun, fatigue when depressed, or in energy healing like Reiki. This sheath also returns to the world upon death and is available for use at will.
+This layer represents the Prana or Energy that courses through the world empowering it with vitality and the ability to manifest and affect reality. It is often perceived as having lots of energy when having fun, fatigue when depressed, or in energy healing like Reiki. This sheath also returns to the world upon death and is available for use at will.
 
 3.	*Manomaya Kosha* – The Mental Sheath. ... the EGO
-    This layer represents our identity and standard operation procedures for life, it manages the use of the body and energy layers to create and interact with the world. It doesn’t make decisions, rather it reacts according to its programmed nature. This sheath is part of the causal bodies and is carried with us beyond death and holds that identity along with the Karma and Samskara of previous incarnations. 
+This layer represents our identity and standard operation procedures for life, it manages the use of the body and energy layers to create and interact with the world. It doesn’t make decisions, rather it reacts according to its programmed nature. This sheath is part of the causal bodies and is carried with us beyond death and holds that identity along with the Karma and Samskara of previous incarnations. 
 
 4.	*Vijnanamaya Kosha* – The Intellectual Sheath. ... the INTELLECT
-	This layer is where the dualistic self would like you to believe that we make decisions. This is the layer that programs the Ego layer and established the automated reactions; this layer has the power to respond to stimulus, rather than simply react. It is here that we can change the way that our Ego identifies and bases its actions on. It also continues beyond death and strives to maintain the separation.
+This layer is where the dualistic self would like you to believe that we make decisions. This is the layer that programs the Ego layer and established the automated reactions; this layer has the power to respond to stimulus, rather than simply react. It is here that we can change the way that our Ego identifies and bases its actions on. It also continues beyond death and strives to maintain the separation.
 
 5.	*Anandamaya Kosha* – The Bliss Sheath. … IGNORANCE
-	This layer is the thinnest and closest to Brahman, so thin that it is easily (and purposefully) mistaken for the true freedom of the Self. It is the most subtle and the one that, according to scripture, is the only one that we cannot will/desire ourselves thru, but by letting go of even the desire to go thru it and just to be, we are.
+This layer is the thinnest and closest to Brahman, so thin that it is easily (and purposefully) mistaken for the true freedom of the Self. It is the most subtle and the one that, according to scripture, is the only one that we cannot will/desire ourselves thru, but by letting go of even the desire to go thru it and just to be, we are.
 
 To put this model into a more relatable perspective, I am going to take some serious poetic liberties, but I feel that the relationships and abstract message are being captured. This is the **Starship Enterprise**, which I hope many here are familiar with to make sense of this analogy:
 
