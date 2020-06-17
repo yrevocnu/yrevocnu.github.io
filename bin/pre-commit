@@ -1,0 +1,22 @@
+#! /bin/bash
+
+scss-lint assets/style.scss &
+STYLES=$!
+
+function num_staged () {
+  echo git diff --name-only --cached | wc -l | xargs
+}
+
+NUM_UNSTAGED_START=$(num_staged)
+htmlbeautifier -b 1 {*,**/*}.{md,html} &
+MARDOWN=$!
+NUM_UNSTAGED_END=$(num_staged)
+
+((NUM_UNSTAGED = NUM_UNSTAGED_START - NUM_UNSTAGED_END))
+
+if ((NUM_UNSTAGED > 0)); then
+  echo "htmlbeautifier modified $NUM_UNSTAGED files! Please review changes carefully, stage them, and commit."
+  exit 1
+fi
+
+wait $STYLES $MARKDOWN

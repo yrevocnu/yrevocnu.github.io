@@ -4,11 +4,10 @@ title:  DROWNING IN THE SOUND
 date:   2019-08-26 15:36:13 -0400
 categories: media
 ---
-
-<em>Two members or Yrevocnu were involved in the creation of this music video.</em>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/70ApTTyKpdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="text-center">
+  <em>Two members or Yrevocnu were involved in the creation of this music video.</em>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/70ApTTyKpdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 VIDEO CREDITS 
 
 Director: Michael Pope<br/>

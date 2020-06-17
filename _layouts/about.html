@@ -5,34 +5,34 @@ layout: default
   <div class="contents">
     <p>Yrevocnu is a multidisciplinary creative society devoted to the pursuit of uncovery in all its forms—artistic, social, technological and therapeutic.
 
-Founded in 2018, Yrevocnu brings together members from across the globe to participate in triannual events dedicated communal renewal, collective pedagogy, collaborative projects and freeform play.</p>
+      Founded in 2018, Yrevocnu brings together members from across the globe to participate in triannual events dedicated communal renewal, collective pedagogy, collaborative projects and freeform play.</p>
   </div>
+</div>
+<div class="main">
+  <div class="contents">
+    <h2>Influences and Inspirations</h2>
+    <p>We are influenced and inspired by so many people and organizations.</p>
+    {% for inspiration in site.data.inspirations %}
+    <span class="{{inspiration.house}}">
+      {% if inspiration.link %}
+      <a href="{{inspiration.link}}">
+        {% endif %}
+        {{inspiration.name}}
+        {% if inspiration.link %}
+      </a>
+      {% endif %}
+    </span>
+    {% endfor %}
   </div>
-      <div class="main">
-        <div class="contents">
-          <h2>Influences and Inspirations</h2>
-          <p>We are influenced and inspired by so many people and organizations.</p>
-          {% for inspiration in site.data.inspirations %}
-          <span class="{{inspiration.house}}">
-            {% if inspiration.link %}
-            <a href="{{inspiration.link}}">
-              {% endif %}
-              {{inspiration.name}}
-              {% if inspiration.link %}
-            </a>
-            {% endif %}
-          </span>
-          {% endfor %}
-        </div>
-      </div>
+</div>
 
-      <div class="main odd">
-        <div class="contents">
-          <h2>Governance</h2>
-          <p>Yrevocnu is an autopoietic social system self-regulated by its Pattern.</p>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/nbbHgRdaXpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-      </div>
+<div class="main odd">
+  <div class="contents">
+    <h2>Governance</h2>
+    <p>Yrevocnu is an autopoietic social system self-regulated by its Pattern.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nbbHgRdaXpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
 <!--
       <div class="main">
         <div class="contents">
@@ -42,7 +42,7 @@ Founded in 2018, Yrevocnu brings together members from across the globe to parti
         </div>
         </div>
 -->
-      <!--
+<!--
       <div class="main">
         <div class="contents">
         <h2>People</h2>

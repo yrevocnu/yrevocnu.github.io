@@ -31,3 +31,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Linting
 gem 'overcommit'
 gem 'scss_lint', require: false
+gem 'htmlbeautifier'
