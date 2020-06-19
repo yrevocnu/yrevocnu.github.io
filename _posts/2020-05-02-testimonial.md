@@ -7,6 +7,7 @@ tags: event-4
 ---
 <div class="text-center">
   <p><em>This video was created by a new member who joined during Event 4 as a Testimonial.</em></p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BV1xQwd-WaA" frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div class="video">
+    <iframe src="https://www.youtube.com/embed/BV1xQwd-WaA"     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>

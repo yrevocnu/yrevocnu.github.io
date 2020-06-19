@@ -6,8 +6,11 @@ categories: media
 ---
 <div class="text-center">
   <em>Two members or Yrevocnu were involved in the creation of this music video.</em>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/70ApTTyKpdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div class="video">
+    <iframe src="https://www.youtube.com/embed/70ApTTyKpdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
+
 VIDEO CREDITS 
 
 Director: Michael Pope<br/>

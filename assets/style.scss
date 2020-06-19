@@ -11,6 +11,7 @@ $reef-purple: #800080;
 $hover-gray: #f5f5f5;
 $gray: Gray;
 $blue: Blue;
+$transparent-black: rgba(0, 0, 0, .25);
 
 // GLOBAL
 body {
@@ -18,11 +19,40 @@ body {
   line-height: 1.5em;
 }
 
-.header {
-  text-align: center;
+img {
+  max-width: 100%;
+}
 
-  img {
-    vertical-align: middle;
+header {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
+
+  .logo {
+    flex: 50%;
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  nav {
+    flex: 50%;
+    white-space: nowrap;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  header {
+    flex-wrap: wrap;
+
+    .logo {
+      text-align: center;
+    }
+
+    nav {
+      display: block;
+      text-align: center;
+    }
   }
 }
 
@@ -33,6 +63,10 @@ body {
 
 .text-center {
   text-align: center;
+}
+
+.text-left {
+  text-align: left;
 }
 
 .main {
@@ -65,11 +99,11 @@ body {
 }
 
 div .box {
-  border-style: outset;
-  border-width: medium;
-  margin: auto;
+  box-shadow: 3px 3px 6px 0 $transparent-black;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 10px 10%;
   text-align: center;
-  width: 60%;
 }
 
 .paradise {
@@ -84,14 +118,30 @@ div .box {
   color: $reef-purple;
 }
 
-.footer {
-  bottom: 0;
-  left: 0;
-  padding: 10px;
-  position: fixed;
+footer {
   text-align: right;
   width: 100%;
-  z-index: 1;
+
+  img {
+    padding: 10px;
+    width: 50px;
+  }
+}
+
+.video {
+  height: 0;
+  margin: 0 auto;
+  max-width: 80%;
+  padding-bottom: 56.25%; // 16:9
+  position: relative;
+
+  iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
 }
 
 .motto {
