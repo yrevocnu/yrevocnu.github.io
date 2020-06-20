@@ -1,0 +1,42 @@
+.logo {
+  color: $black;
+  font-size: 50px;
+  letter-spacing: -.12em;
+  margin: 40px 10px;
+  padding-right: 18px;
+  text-decoration: none;
+  text-transform: uppercase;
+  vertical-align: middle;
+
+  span {
+    display: inline-block;
+    transform: scale(-1, 1);
+  }
+
+  .orbus {
+    border: 3px solid $black;
+    border-radius: 50%;
+    display: inline-block;
+    height: 38px;
+    position: relative;
+    top: 4px;
+    width: 38px;
+  }
+
+  .orbus-inner {
+    animation: rotate 2s infinite linear;
+    border: 2px solid transparent;
+    border-radius: 50%;
+    border-top-color: $black;
+    height: 28px;
+    left: 3px;
+    position: absolute;
+    top: 3px;
+    width: 28px;
+  }
+}
+
+@keyframes rotate {
+  0% { transform: rotate(0deg);  }
+  100% { transform: rotate(360deg);  }
+}

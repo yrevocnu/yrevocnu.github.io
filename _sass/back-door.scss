@@ -1,0 +1,24 @@
+.back-door {
+  .imagebox {
+    display: inline-block;
+    position: relative;
+  }
+
+  .innertext {
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 28.5%; // Adjust this value to move the positioned div up and down
+    width: 55%; // Set the width of the positioned div
+    z-index: 999;
+  }
+
+  .enter {
+    background-color: $gray;
+    color: $blue;
+    font-size: 2em;
+    margin: .1em;
+  }
+}

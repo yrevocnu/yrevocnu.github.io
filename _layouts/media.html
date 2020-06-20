@@ -11,10 +11,10 @@ layout: default
 
 {% for post in site.categories['media'] %}
 
-<div class="main long {% cycle 'odd', '' %}">
+<div class="main {% cycle 'odd', '' %}">
   <div class="contents">
     <h2>{{ post.title }}</h2>
-    {{post.content | markdownify}}
+    <div class="text-left">{{post.content | markdownify}}</div>
   </div>
 </div>
 {% endfor %}

@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  line-height: 1.5em;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+.video {
+  height: 0;
+  margin: 0 auto;
+  max-width: 80%;
+  padding-bottom: 56.25%; // 16:9
+  position: relative;
+
+  iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
