@@ -4,18 +4,14 @@ layout: default
 {{content}}
 <div class="main">
   <div class="contents">
-    <h2>Events</h2>
+    <h1>Events</h1>
 
-    {% assign future = site.data.events[4] %}
+    {% assign future = site.data.events[5] %}
     <div class="box">
       <p>The {{future.ordinal}} triannual {{future.name}}</p>
       <h3>@ {{future.location}}</h3>
       <p>is {{future.dates}}</p>
-      <p>in Observance of {{future.holiday}}</p>
-      <!--
-          <p>celebrates <a href="https://www.britannica.com/topic/Guy-Fawkes-Day">Guy Fawkes Day</a></p>
-          <p>Nov 2-5, 2018</p>
-          <p>at Cult HQ, in Pittsburgh, PA.</p> -->
+      <!-- <p>in Observance of {{future.holiday}}</p> -->
     </div>
   </div>
 </div>
