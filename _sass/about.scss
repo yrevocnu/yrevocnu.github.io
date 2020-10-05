@@ -1,0 +1,38 @@
+#about {
+  #links {
+    padding: 0;
+    transform: scaleY(0);    
+    transform-origin: top;
+    transition: transform 0.25s ease-out;
+    &.loaded {
+      transform: scaleY(1);
+    }
+    li {
+      color: $black;
+      clear: both;
+      list-style: none;
+      border-bottom: 1px solid $hover-gray;
+      &:last-child {
+        padding: 0;
+        border: none;
+      }
+      a {
+        padding: 1em 0;
+        display: block;
+        div {
+          margin-left: 50px;
+          text-align:left;
+          font-size: 14px;
+          >* {
+            margin: 0;
+          }
+        }
+        img {
+          margin-left: 5px;
+          width: 35px;
+          float: left;
+        }
+      }
+    }
+  }
+}

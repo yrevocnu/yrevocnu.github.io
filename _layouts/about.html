@@ -1,33 +1,71 @@
 ---
 layout: default
 ---
-<div class="main">
-  <div class="contents">
-    <h1>About</h1>
-    <p>Yrevocnu is a multidisciplinary creative society devoted to the pursuit of uncovery in all its forms—artistic, social, technological and therapeutic.</p>
-    <p>Founded in 2018, Yrevocnu brings together members from across the globe to participate in triannual events dedicated communal renewal, collective pedagogy, collaborative projects and freeform play.</p>
+<div id="about">
+  <div class="main">
+    <div class="contents">
+      <h1>About</h1>
+      <p>Yrevocnu is a multidisciplinary creative society devoted to the pursuit of uncovery in all its forms—artistic, social, technological and therapeutic.</p>
+      <p>Founded in 2018, Yrevocnu brings together members from across the globe to participate in triannual events dedicated communal renewal, collective pedagogy, collaborative projects and freeform play.</p>
+    </div>
   </div>
-</div>
-<div class="main odd inspirations">
-  <div class="contents">
-    <h2>Influences and Inspirations</h2>
-    <p>We are influenced and inspired by so many people and organizations.</p>
-    {% for inspiration in site.data.inspirations %}
-      {% if inspiration.link %}
-      <a {% if inspiration.house %} class="{{inspiration.house}}" {% endif %} href="{{inspiration.link}}" target="_blank">{{inspiration.name}}</a>
-      {% else %}
-      <span class="{{inspiration.house}}">{{inspiration.name}}</span>
-      {% endif %}
-    {% endfor %}
+  <div class="main odd inspirations">
+    <div class="contents">
+      <h2>Influences and Inspirations</h2>
+      <p>We are influenced and inspired by so many people and organizations.</p>
+      {% for inspiration in site.data.inspirations %}
+        {% if inspiration.link %}
+        <a {% if inspiration.house %} class="{{inspiration.house}}" {% endif %} href="{{inspiration.link}}" target="_blank">{{inspiration.name}}</a>
+        {% else %}
+        <span class="{{inspiration.house}}">{{inspiration.name}}</span>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
-</div>
 
-<div class="main">
-  <div class="contents">
-    <h2>Governance</h2>
-    <p>Yrevocnu is an autopoietic social system self-regulated by its Pattern.</p>
-    <div class="video">
-      <iframe src="https://www.youtube.com/embed/nbbHgRdaXpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div id="links-wrapper" class="main">
+    <div class="contents">
+      <h2>What We're Talking About Right Now</h2>
+      <ul id="links"></ul>
+    </div>
+  </div>
+
+  <div class="main odd">
+    <div class="contents">
+      <h2>Governance</h2>
+      <p>Yrevocnu is an autopoietic social system self-regulated by its Pattern.</p>
+      <div class="video">
+        <iframe src="https://www.youtube.com/embed/nbbHgRdaXpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
     </div>
   </div>
 </div>
+
+<script>
+  function removeElement(id) {
+    const ele = document.getElementById(id);
+    ele.parentNode.removeChild(ele);
+  }
+
+  (async () => {
+    try {
+      let result = await fetch('https://pgbg.forcecodeonyou.com/discourse/links');
+      let links = await result.json();
+
+      if (!links || !links.length) {
+        return removeElement('links-wrapper');
+      }
+
+      for (const link of links) {
+        const item = document.createElement('li');
+        item.innerHTML = `<a href="${link.url}" target="_blank" /><img src="${link.image || '{{"/images/share.png"}}'}" /><div><h3>${link.title || ""}</h3><p>${link.description || ""}</p></div></a>`;
+        document.getElementById('links').appendChild(item);
+      }
+      
+      document.getElementById('links').classList.add('loaded');
+    } catch (err) {
+      console.log('Could not add links!', err);
+      return removeElement('links-wrapper');
+    }
+  })();
+</script>
