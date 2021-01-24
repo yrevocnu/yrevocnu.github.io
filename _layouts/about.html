@@ -2,27 +2,13 @@
 layout: default
 ---
 <div id="about">
-  <div class="main">
+  <div class="main odd">
     <div class="contents">
       <h1>About</h1>
       <p>Yrevocnu is a multidisciplinary creative society devoted to the pursuit of uncovery in all its forms—artistic, social, technological and therapeutic.</p>
       <p>Founded in 2018, Yrevocnu brings together members from across the globe to participate in triannual events dedicated communal renewal, collective pedagogy, collaborative projects and freeform play.</p>
     </div>
   </div>
-  <div class="main odd inspirations">
-    <div class="contents">
-      <h2>Influences and Inspirations</h2>
-      <p>We are influenced and inspired by so many people and organizations.</p>
-      {% for inspiration in site.data.inspirations %}
-        {% if inspiration.link %}
-        <a {% if inspiration.house %} class="{{inspiration.house}}" {% endif %} href="{{inspiration.link}}" target="_blank">{{inspiration.name}}</a>
-        {% else %}
-        <span class="{{inspiration.house}}">{{inspiration.name}}</span>
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-
   <div id="links-wrapper" class="main">
     <div class="contents">
       <h2>What We're Talking About Right Now</h2>
