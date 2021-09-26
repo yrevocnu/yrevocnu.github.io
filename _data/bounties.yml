@@ -1,13 +1,4 @@
 open:
-  - short: Game builder
-    long: Somebody that will work directly with us on the project of building a video game.
-    bounty: ₷3
-    open: Event 4
-
-  - short: Somebody who cannot speak any English
-    bounty: ₷1
-    open: Event 4
-
   - short: An Ambedkarite
     bounty: ₷1
     open: Event 4
@@ -75,6 +66,17 @@ open:
     open: Event 2
 
 closed:
+  - short: Game builder
+    long: Somebody that will work directly with us on the project of building a video game.
+    bounty: ₷3
+    open: Event 4
+    closed: Event 5
+
+  - short: Somebody who cannot speak any English
+    bounty: ₷1
+    open: Event 4
+    closed: Event 5
+
   - short: Someone who wants to achieve something with Yrevocnu
     bounty: ₷1
     long: A person who actively wants to achieve something with Yrevocnu members at the Future Ball, such as learning and/or teaching something at an introductory level, after having had their recruiter explain their Yrevocnu experiences. If multiple individuals fulfill this requirement, preference will go to collaborations with specific existing members (which may include the recruiter). In other words, bringing a buddy you want to do something with is an ideal example.
