@@ -20,7 +20,7 @@ layout: default
     <div class="text-left">
       {% for bounty in site.data.bounties.open %}
       <div class="bounty">
-        <h3><span class="woods">{{bounty.bounty}}</span> {{bounty.short}}</h3>
+        <h3><span class="woods">₷{{bounty.bounty}}</span> {{bounty.short}}</h3>
         <p>{{bounty.long}}</p>
       </div>
       {% endfor %}
@@ -34,7 +34,7 @@ layout: default
     These are the people that we have found:
     <div class="text-left">
       {% for bounty in site.data.bounties.closed %}
-      <p><strong>{{bounty.short}}</strong> became a member at {{bounty.closed}}, recruited for {{bounty.bounty}}</p>
+      <p><strong>{{bounty.short}}</strong> became a member at Event {{bounty.closed}}, recruited for ₷{{bounty.bounty}}</p>
       {% endfor %}
     </div>
   </div>

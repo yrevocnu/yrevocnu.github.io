@@ -1,89 +1,93 @@
-open:
-  - short: An Ambedkarite
-    bounty: ₷1
-    open: Event 4
-
-  - short: Noam Chomsky
-    bounty: ₷1
-    open: Event 4
-  
-  - short: Coleman Hughes or Chloe Valdary
-    bounty: ₷1
-    open: Event 4
-  
-  - short: A special education teacher
-    bounty: ₷1
-    open: Event 3
-      
-  - short: Gardner Gould
-    bounty: ₷1
-    open: Event 3
-      
-  - short: A non gender-specific sugar daddy
-    bounty: ₷4
-    long: A wealthy person willing to finance Yrevocnu in its current form.
-    open: Event 3
-      
-  - short: Somebody who has the requisite skills to build the Yrevocnu sexbot
-    bounty: ₷1
-    open: Event 3
-      
-  - short: A professional surfer
-    bounty: ₷1
-    long: Somebody who makes over $1000 a year from surfing
-    open: Event 3
-      
-  - short: Somebody who will teach how to cook curry from scratch
-    bounty: ₷1
-    open: Event 3
-      
-  - short: A textile maker
-    bounty: ₷1
-    long: Especially, a maker of rugs. Especially, one whose designs are data driven.
-    open: Event 3
-
-  - short: Greta Thunberg
-    bounty: ₷1
-    open: Event 3
-
-  - short: A person who has experienced both obstacles to emancipation and privilege
-    bounty: ₷1
-    long: A person who has had experiences as a member of different classes or cultures where at least one of those experiences involved overcoming obstacles to emancipation and one of those experiences came with privilege, whether it was earned or unearned
-    open: Event 2
-
-  - short: Someone who is intelligent about money
-    bounty: ₷1
-    long: Someone who is intelligent about money--how to manage it, and how to invest it. This person should also have a good grasp, if not educational background, on economics - both national and international. Ideally, this person would be able to give a talk at a prison, where the information they share would be useful and implementable advice for the inmates when they leave.
-    open: Event 2
-
-  - short: An enthusiastic teacher of youth
-    bounty: ₷1
-    long: An enthusiastic teacher of youth. Currently practicing with 3-5 years of professional experience working with young people aged 12-18. Must be Enneagram Type 7.
-    open: Event 2
-
-  - short: A new attendee who volunteers to organize the next event
-    bounty: ₷4
-    open: Event 2
-
 closed:
-  - short: Game builder
-    long: Somebody that will work directly with us on the project of building a video game.
-    bounty: ₷3
-    open: Event 4
-    closed: Event 5
-
-  - short: Somebody who cannot speak any English
-    bounty: ₷1
-    open: Event 4
-    closed: Event 5
-
-  - short: Someone who wants to achieve something with Yrevocnu
-    bounty: ₷1
-    long: A person who actively wants to achieve something with Yrevocnu members at the Future Ball, such as learning and/or teaching something at an introductory level, after having had their recruiter explain their Yrevocnu experiences. If multiple individuals fulfill this requirement, preference will go to collaborations with specific existing members (which may include the recruiter). In other words, bringing a buddy you want to do something with is an ideal example.
-    open: Event 2
-    closed: Event 4
-
-  - short: Leo DiCaprio or Sergey Lavrov
-    bounty: ₷1
-    open: Event 2
-    closed: Event 3
+- bounty: 4
+  closed: 6
+  open: 2
+  short: A new attendee who volunteers to organize the next event
+- bounty: 1
+  closed: 6
+  open: 3
+  short: Somebody who has the requisite skills to build the Yrevocnu sexbot
+- bounty: 1
+  closed: 6
+  open: 3
+  short: Somebody who will teach how to cook curry from scratch
+- bounty: 1
+  closed: 5
+  long: Somebody that will work directly with us on the project of building a video
+    game.
+  open: 4
+  short: Game builder (1)
+- bounty: 2
+  closed: 5
+  long: Somebody that will work directly with us on the project of building a video
+    game.
+  open: 4
+  short: Game builder (2)
+- bounty: 1
+  closed: 5
+  open: 4
+  short: Somebody who cannot speak any English
+- bounty: 1
+  closed: 4
+  long: A person who actively wants to achieve something with Yrevocnu members at
+    the Future Ball, such as learning and/or teaching something at an introductory
+    level, after having had their recruiter explain their Yrevocnu experiences. If
+    multiple individuals fulfill this requirement, preference will go to collaborations
+    with specific existing members (which may include the recruiter). In other words,
+    bringing a buddy you want to do something with is an ideal example.
+  open: 2
+  short: Somebody who wants to achieve something with Yrevocnu
+- bounty: 1
+  closed: 3
+  open: 2
+  short: Leo DiCaprio or Sergey Lavrov
+open:
+- bounty: 1
+  open: 4
+  short: An Ambedkarite
+- bounty: 1
+  open: 4
+  short: Noam Chomsky
+- bounty: 1
+  open: 4
+  short: Coleman Hughes or Chloe Valdary
+- bounty: 1
+  open: 3
+  short: A special education teacher
+- bounty: 1
+  open: 3
+  short: Gardner Gould
+- bounty: 4
+  long: A wealthy person willing to finance Yrevocnu in its current form.
+  open: 3
+  short: A non gender-specific sugar daddy
+- bounty: 1
+  long: Somebody who makes over $1000 a year from surfing
+  open: 3
+  short: A professional surfer
+- bounty: 1
+  long: Especially, a maker of rugs. Especially, one whose designs are data driven.
+  open: 3
+  short: A textile maker
+- bounty: 1
+  open: 3
+  short: Greta Thunberg
+- bounty: 1
+  long: A person who has had experiences as a member of different classes or cultures
+    where at least one of those experiences involved overcoming obstacles to emancipation
+    and one of those experiences came with privilege, whether it was earned or unearned
+  open: 2
+  short: A person who has experienced both obstacles to emancipation and privilege
+- bounty: 1
+  long: Someone who is intelligent about money--how to manage it, and how to invest
+    it. This person should also have a good grasp, if not educational background,
+    on economics - both national and international. Ideally, this person would be
+    able to give a talk at a prison, where the information they share would be useful
+    and implementable advice for the inmates when they leave.
+  open: 2
+  short: Someone who is intelligent about money
+- bounty: 1
+  long: An enthusiastic teacher of youth. Currently practicing with 3-5 years of professional
+    experience working with young people aged 12-18. Must be Enneagram Type 7.
+  open: 2
+  short: An enthusiastic teacher of youth
