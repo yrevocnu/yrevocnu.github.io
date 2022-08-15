@@ -43,19 +43,35 @@ closed:
   short: Leo DiCaprio or Sergey Lavrov
 open:
 - bounty: 1
+  open: 6
+  short: An EnActivist
+- bounty: 1
+  open: 6
+  short: A Vygotskian
+- bounty: 1
+  open: 6
   short: An alumna of the School for Designing a Society
 - bounty: 1
+  open: 6
   short: A postrationalist blogger
 - bounty: 1
+  open: 6
   short: A member of KLF, Panic Movement, Obvious, and/or Meow Wolf
 - bounty: 1
+  open: 6
+  short: Andrew Hussie
+- bounty: 1
+  open: 6
   short: A percussionist
 - bounty: 1
+  open: 6
   short: A TTRPG streamer
 - bounty: 1
-  short: Somebody with over 30k followers on Instagram capable of promoting the Yrevocnu
+  open: 6
+  short: Somebody with over 50k followers on Instagram capable of promoting the Yrevocnu
     lifestyle
 - bounty: 5
+  open: 6
   short: "Whoever franchises Yrevocnu and hosts a \u201Ccompeting\u201D (but officially\
     \ sanctioned) event during a scheduled Future Ball"
 - bounty: 2
@@ -63,6 +79,7 @@ open:
     franchise. Bounty is to be awarded only when a franchise opens up in a new location
     and utilizes the agreement. Agreement must be ratified by members of all Houses
     including Gray and Null.
+  open: 6
   short: Whoever writes the license agreement that stipulates the terms of the Yrevocnu
     franchise
 - bounty: 1
