@@ -1,3 +1,11 @@
+8:
+  ordinal: 8th
+  name: Future Ball
+  dates: TBD, 2023
+  location: DMV
+  organizer:
+    name: Rob and Valdes
+
 7:
   ordinal: 7th
   name: Future Ball
@@ -9,6 +17,12 @@
       - Valdes, FP
       - Amanda, TW
       - Nels, RS
+  happenings:
+    - A Convergence of Doubles
+    - Data collected and analyzed
+    - French Quarter Shintaido Intervention
+    - Behind, Beneath, Between The Streets
+    - Reef Structure becomes a Liquid Democracy
 
 6:
   ordinal: 6th

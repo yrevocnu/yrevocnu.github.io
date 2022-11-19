@@ -1,4 +1,11 @@
 closed:
+- bounty: 1
+  closed: 7
+  long: A person who has had experiences as a member of different classes or cultures
+    where at least one of those experiences involved overcoming obstacles to emancipation
+    and one of those experiences came with privilege, whether it was earned or unearned
+  open: 2
+  short: A person who has experienced both obstacles to emancipation and privilege
 - bounty: 4
   closed: 6
   open: 2
@@ -43,6 +50,25 @@ closed:
   short: Leo DiCaprio or Sergey Lavrov
 open:
 - bounty: 1
+  open: 7
+  short: Stephen Frank Morrell
+- bounty: 6
+  open: 7
+  short: Person of means who will welcome us as family to their lavish home by the
+    water with a yacht
+- bounty: 8
+  open: 7
+  short: A high estrogen body
+- bounty: 3
+  open: 7
+  short: Chef Tiger from the Marigny
+- bounty: 1
+  open: 6
+  short: A member of the Glass Bead research platform community.
+- bounty: 1
+  open: 6
+  short: A member of the Glass Bead research platform community.
+- bounty: 1
   open: 6
   short: An EnActivist
 - bounty: 1
@@ -59,7 +85,7 @@ open:
   short: A member of KLF, Panic Movement, Obvious, and/or Meow Wolf
 - bounty: 1
   open: 6
-  short: Andrew Hussie
+  short: Andrew Hussie or Zach Weinersmith
 - bounty: 1
   open: 6
   short: A percussionist
@@ -112,12 +138,6 @@ open:
 - bounty: 1
   open: 3
   short: Greta Thunberg
-- bounty: 1
-  long: A person who has had experiences as a member of different classes or cultures
-    where at least one of those experiences involved overcoming obstacles to emancipation
-    and one of those experiences came with privilege, whether it was earned or unearned
-  open: 2
-  short: A person who has experienced both obstacles to emancipation and privilege
 - bounty: 1
   long: Someone who is intelligent about money--how to manage it, and how to invest
     it. This person should also have a good grasp, if not educational background,
