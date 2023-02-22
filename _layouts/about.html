@@ -5,8 +5,10 @@ layout: default
   <div class="main odd">
     <div class="contents">
       <h1>About</h1>
-      <p>Yrevocnu is a multidisciplinary creative society devoted to the pursuit of uncovery in all its forms—artistic, social, technological and therapeutic.</p>
-      <p>Founded in 2018, Yrevocnu brings together members from across the globe to participate in triannual events dedicated communal renewal, collective pedagogy, collaborative projects and freeform play.</p>
+      <p>Yrevocnu is a multidisciplinary creative society devoted to the pursuit of uncovery in all its forms—artistic,
+        social, technological and therapeutic.</p>
+      <p>Founded in 2018, Yrevocnu brings together members from across the globe to participate in triannual events
+        dedicated communal renewal, collective pedagogy, collaborative projects and freeform play.</p>
     </div>
   </div>
   <div id="links-wrapper" class="main">
@@ -20,38 +22,6 @@ layout: default
     <div class="contents">
       <h2>Governance</h2>
       <p>Yrevocnu is an autopoietic social system self-regulated by its Pattern.</p>
-      <div class="video">
-        <iframe src="https://www.youtube.com/embed/nbbHgRdaXpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
     </div>
   </div>
 </div>
-
-<script>
-  function removeElement(id) {
-    const ele = document.getElementById(id);
-    ele.parentNode.removeChild(ele);
-  }
-
-  (async () => {
-    try {
-      let result = await fetch('https://pgbg.forcecodeonyou.com/discourse/links');
-      let links = await result.json();
-
-      if (!links || !links.length) {
-        return removeElement('links-wrapper');
-      }
-
-      for (const link of links) {
-        const item = document.createElement('li');
-        item.innerHTML = `<a href="${link.url}" target="_blank" /><img src="${link.image || '{{"/images/share.png"}}'}" /><div><h3>${link.title || ""}</h3><p>${link.description || ""}</p></div></a>`;
-        document.getElementById('links').appendChild(item);
-      }
-      
-      document.getElementById('links').classList.add('loaded');
-    } catch (err) {
-      console.log('Could not add links!', err);
-      return removeElement('links-wrapper');
-    }
-  })();
-</script>
